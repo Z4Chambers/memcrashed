@@ -34,7 +34,6 @@ You may obtain one for free in [Shodan](https://shodan.io/) if you sign up using
 
 ### Using Docker
 
-##### [Demo](https://asciinema.org/a/v1AEEa17xzqUfyW4pEIS0JONW)
 
 You may deploy this tool to the cloud using a light Alpine Docker image.
 
